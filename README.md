@@ -6,7 +6,7 @@ Vim syntax file for Sway
 
 Pre-requisites:
 1. Clone this repo
-1. Ensure you have the `forc-lsp` binary with `which forc-lsp`. If not, install [the Sway toolchain](https://fuellabs.github.io/sway/v0.25.2/introduction/installation.html).
+2. Ensure you have the `forc-lsp` binary with `which forc-lsp`. If not, install [the Sway toolchain](https://fuellabs.github.io/sway/v0.25.2/introduction/installation.html).
 
 ### Neovim
 
